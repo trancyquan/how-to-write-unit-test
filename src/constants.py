@@ -1,0 +1,1 @@
+PAY_RAISE_RATE = 1.05
