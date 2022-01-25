@@ -524,4 +524,4 @@ And I hope you can still remember the key takeways.
 2. Wirte unit test that is independent, fast, repeatable.
 3. Mock where it is used, and not where it's defined (source)
 
-Here is the GitHub with the test cases: https://github.wdf.sap.corp/I353305/testing-with-pytest
+Here is the GitHub with the test cases: https://github.com/trancyquan/how-to-write-unit-test
