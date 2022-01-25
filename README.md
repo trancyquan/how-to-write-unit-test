@@ -33,7 +33,7 @@ The concept of Test Pyramid as shown below, is introduced by Mike Cohn in his bo
 
 According to the pyramid, when it is at the bottom it normally means more isolated and faster tests (in other words: cheaper); while moving up the pyramid, it means more integrated and slower tests (in other words: expensive). At the tip of the pyramid could means manual testing. 
 
-![test-automation-pyramid.jpeg](testing-pyramid.png)
+![test-automation-pyramid.jpeg](test-pyramid.png)
 
 ## Why do we need Unit Testing?
 
